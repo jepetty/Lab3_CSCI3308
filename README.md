@@ -3,3 +3,6 @@ Working with git in the 3rd lab of software development
 
 Jessica Petty
 This is our Lab 3!!
+
+
+Do I have a partner? We shall see!!
